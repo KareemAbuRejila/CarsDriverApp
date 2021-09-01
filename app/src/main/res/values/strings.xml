@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Cars</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">Forgot Password ?</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="log_in">log in</string>
+    <string name="user_name">User Name</string>
+    <string name="re_password">Re_Password</string>
+    <string name="register">Register</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="signup">signUp</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="title_activity_maps">DriverMap</string>
+    <string name="find_user">Find User</string>
+    <string name="enter_pickup_location">Enter Pickup Location</string>
+
+    <string name="googleDirectionKey">AIzaSyCLK9x7lHzKZ_Wy9KrJelq0WlrICOzW0UM</string>
+    <string name="title_activity_driver_tracking">Map</string>
+    <string name="title_activity_trip_details">Map</string>
+
+</resources>
